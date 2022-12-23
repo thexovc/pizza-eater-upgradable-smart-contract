@@ -1,7 +1,7 @@
 const { ethers, upgrades } = require('hardhat')
 
 async function main() {
-    const Box = await ethers.getContractFactory("Box")
+    const Box = await ethers.getContractFactory("House")
 
     const box = await upgrades.deployProxy(Box, [42], {
         intializer: "intialize"
