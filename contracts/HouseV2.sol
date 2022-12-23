@@ -3,13 +3,13 @@
 pragma solidity ^0.8.0;
 
 contract HouseV2 {
-    uint256 avg;
+    uint256 public avg;
 
-    function inc() returns () public {
+    function inc() public {
         avg++;
     }
 
-    function dec() return () public {
+    function dec() public {
         avg--;
     }
 }
