@@ -1,0 +1,85 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0xF2578d03D0110A225e8F405613E0420eAd9f27A9",
+    "txHash": "0x7e621b6ec570651a3731c38a14b6e16675992eed6058a1d602965cf697eb837e"
+  },
+  "proxies": [
+    {
+      "address": "0x6C37e7813AD9C3f75eF3AD10EB84bBd1e4C135eD",
+      "txHash": "0xfae110e4aa839caae9f4740c32b503f9d0af95fa2ac847870be441b703d332e7",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "34a6f34ed50ba02f0e785c30e3cade5bceb871b8e0498935cd4a11da0184f586": {
+      "address": "0xAe93295fAE0f0cB606fb5F4D04B815E0Eb39f351",
+      "txHash": "0x1631bd1c3b97b17497fe125c3185269fcc020c01c5b8fa1c6d2c65c0e4eacc54",
+      "layout": {
+        "solcVersion": "0.8.4",
+        "storage": [
+          {
+            "label": "avg",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "House",
+            "src": "contracts\\House.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "ed816ffc147820c7c2e93ae92198d8d34c2cfb7e1ca888d9279777392eb11415": {
+      "address": "0x7478Ac885a5dee6400B45b0de0fA6DcBf58E8470",
+      "txHash": "0x234019463d7b6442a24939dc66ad8534fcfe0d1c723c5f47d3596aee71645508",
+      "layout": {
+        "solcVersion": "0.8.4",
+        "storage": [
+          {
+            "label": "avg",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "House",
+            "src": "contracts\\House.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "4cd2570c9599359287d9fe86b97e208d9668855d18ecd2fa93bea4e506218d41": {
+      "address": "0x5092a016e7177E736cb70f6c283b0D85BF01ceEF",
+      "txHash": "0x474a7271e07f5e11d08d4cf34267f180750bd5dd56d1fea73a7a14dba6f5e477",
+      "layout": {
+        "solcVersion": "0.8.4",
+        "storage": [
+          {
+            "label": "avg",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "HouseV2",
+            "src": "contracts\\HouseV2.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    }
+  }
+}

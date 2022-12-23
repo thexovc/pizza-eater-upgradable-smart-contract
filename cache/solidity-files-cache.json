@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\HP\\Documents\\BlockChain\\UUPS\\house-average\\contracts\\House.sol": {
-      "lastModificationDate": 1671765690262,
-      "contentHash": "77b44b72b47fc5923be399b0f5a75f5c",
+      "lastModificationDate": 1671766227376,
+      "contentHash": "c3be53e233b95a7cc2fd724951c4b24b",
       "sourceName": "contracts/House.sol",
       "solcConfig": {
         "version": "0.8.4",
@@ -19,7 +19,8 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata"
+                "metadata",
+                "storageLayout"
               ],
               "": [
                 "ast"
@@ -54,7 +55,8 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata"
+                "metadata",
+                "storageLayout"
               ],
               "": [
                 "ast"
