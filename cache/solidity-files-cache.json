@@ -1,10 +1,10 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\HP\\Documents\\BlockChain\\UUPS\\house-average\\contracts\\House.sol": {
-      "lastModificationDate": 1671766227376,
+    "C:\\Users\\HP\\Documents\\BlockChain\\UUPS\\house-average\\contracts\\House__upgradable\\House.sol": {
+      "lastModificationDate": 1672910789658,
       "contentHash": "c3be53e233b95a7cc2fd724951c4b24b",
-      "sourceName": "contracts/House.sol",
+      "sourceName": "contracts/House__upgradable/House.sol",
       "solcConfig": {
         "version": "0.8.4",
         "settings": {
@@ -37,10 +37,10 @@
         "House"
       ]
     },
-    "C:\\Users\\HP\\Documents\\BlockChain\\UUPS\\house-average\\contracts\\HouseV2.sol": {
-      "lastModificationDate": 1671765673195,
+    "C:\\Users\\HP\\Documents\\BlockChain\\UUPS\\house-average\\contracts\\House__upgradable\\HouseV2.sol": {
+      "lastModificationDate": 1672910789868,
       "contentHash": "6ae1bba0ac09a965c3c197e995e0c6a8",
-      "sourceName": "contracts/HouseV2.sol",
+      "sourceName": "contracts/House__upgradable/HouseV2.sol",
       "solcConfig": {
         "version": "0.8.4",
         "settings": {
